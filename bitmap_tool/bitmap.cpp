@@ -2,7 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <FreeImage.h>
-#include <iomanip> // Include <iomanip> for setfill and setw
+#include <iomanip>
 
 void displayBitmapEncoding(const char* filename) {
     // Load image from file
