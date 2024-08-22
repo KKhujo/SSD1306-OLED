@@ -9,7 +9,7 @@ To compile the `bitmap.cpp` file, execute the following command:
 ```bash
 g++ bitmap.cpp -o bit -lfreeimage
 ```
-# Specificatons
+# Specs
 ![image](https://github.com/user-attachments/assets/c3662d06-80e3-47fb-a78d-60ef681f312a)
 
 ![image](https://github.com/user-attachments/assets/ac0cd00d-b3c4-4647-a870-d9629d400cfb)
